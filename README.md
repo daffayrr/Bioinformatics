@@ -1,5 +1,5 @@
 # Bioinformatics
-Bioinformatika, sesuai dengan asal katanya yaitu “bio” dan “informatika”, adalah gabungan antara ilmu biologi dan ilmu teknik informasi (TI). Pada umumnya, Bioinformatika didefenisikan sebagai aplikasi dari alat komputasi dan analisa untuk menangkap dan menginterpretasikan data-data biologi. Ilmu ini merupakan ilmu baru yang yang merangkup berbagai disiplin ilmu termasuk ilmu komputer, matematika dan fisika, biologi, dan ilmu kedokteran, dimana kesemuanya saling menunjang dan saling bermanfaat satu sama lainnya.
+Bioinformatika, sesuai dengan asal katanya yaitu “bio” dan “informatika”, adalah gabungan antara ilmu biologi dan ilmu teknik informatika (TI). Pada umumnya, Bioinformatika didefenisikan sebagai aplikasi dari alat komputasi dan analisa untuk menangkap dan menginterpretasikan data-data biologi. Ilmu ini merupakan ilmu baru yang yang merangkup berbagai disiplin ilmu termasuk ilmu komputer, matematika dan fisika, biologi, dan ilmu kedokteran, dimana kesemuanya saling menunjang dan saling bermanfaat satu sama lainnya.
 
 Istilah bioinformatics mulai dikemukakan pada pertengahan era 1980-an untuk mengacu pada penerapan komputer dalam biologi. Namun demikian, penerapan bidang-bidang dalam bioinformatika (seperti pembuatan basis data dan pengembangan algoritma untuk analisis sekuens biologis) sudah dilakukan sejak tahun 1960-an.
 
